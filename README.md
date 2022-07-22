@@ -10,6 +10,23 @@ All software of my authorship in this page is published under the <a href="https
 
 <ul>
 
+<li><A HREF="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/matrices_multiplication_DEMO.m">Multiplication of Matrices</A> 
+ is a starter's tutorial, including definition of scalars, matrices and vectors; indexing and basic arithmetic. </li>
+<li><A HREF="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/loops_DEMO.m">Loops</A> 
+ includes definition and examples of basic logic operators; "while" and "for" loops. </li>
+ <li><A HREF="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/find_DEMO.m">Find </A> 
+ shows differences between matrices and cells; how to find values in an array and a practical application. </li>
+ <li><A HREF="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/conditional_statements_DEMO.m">Conditional Statements </A> 
+ shows operators 'if', 'else' and 'ifelse'. </li>
+<li><A HREF="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/MIR_win_convo_autocorr_DEMO.m">Music Information Retrieval - Windowing, Convolution and Autocorrelation</A> 
+ includes definition and examples applied to Music Information Retrieval, of windowed processes, convolution, correlation, cross-correlation and autocorrelation; extraction of harmonics by FFT,
+distance and self-similarity matrices; peak detection and segmentation by novelty. </li>  
+<li><A HREF="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/MIR_query_melody_ASS.m">MIR Query-by-Melody Assignment</A> 
+ includes challenges to apply the knowledge contained in the files above, into a system that exracts discrete frequency segments from audio files, 
+ represents those segments as a sequence of musical notes and compares the sequence with a melody in a database. </li>
+ 
+<br>
+
 <li><a href="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/trace_rings_DEMO.m">Trace Rings Demonstration</a> </li>
 
 <br>
