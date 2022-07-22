@@ -32,7 +32,7 @@ Test data:
 <br>
 <li>The following two scripts are intended for clustering and classification of timeseries. They use Dynamic Time Warping as a measure of distance and One Nearest Neighbour as a classifier. Both require the <a href="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/dtw.m">dtw</a> function by <a href="http://quanthu.com">Quan Wang</a>.</li>
 
-<ul>
+<ul><blockquote>
 <li><a href="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/unsupervised_timeseries_clustering.m">Unsupervised Timeseries Clustering</a> is a script that groups timeseries according to their similarity.</li>
 
 <li><a href="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/blob/main/supervised_timeseries_classification.m">Supervised Timeseries Classification</a> is a script that classifies timeseries according to their similarity with given examples.</li>
