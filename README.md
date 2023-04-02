@@ -1,5 +1,7 @@
 # Octave miscellaneous
 
+<img src="https://gitlab.jyu.fi/juigmend/octave-miscellaneous/-/raw/main/juan_2005_mexico_GREY.jpg" width="1200" height="240">
+
 Miscellaneous <a href="https://www.gnu.org/software/octave/">Octave</a> code. 
 It might also work in <a href="http://mathworks.com">Matlab</a>.
 
